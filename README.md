@@ -140,17 +140,8 @@ Edit
 git clone https://github.com/yourusername/EmergencyResponseSimulation.git
 cd EmergencyResponseSimulation
 # Open and run Program.cs
-🔥 Future Improvements (Optional)
-Add new unit types (e.g., Flood Response Unit, Earthquake Rescue Team).
-
-Allow players to manually select units instead of auto-selection.
-
-Add unit availability cooldowns after each incident.
-
-Display incident severity levels (minor, moderate, severe).
-
-Visual improvements with colored text for different emergencies.
 
 📜 License
+
 This project is free for personal and educational use!
 
